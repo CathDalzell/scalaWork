@@ -1,0 +1,1 @@
+{"name":"sbt","version":"1.7.1","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["/home/placidia/.cache/coursier/jvm/adopt@1.8.0-292/jre/bin/java","-Xms100m","-Xmx100m","-classpath","/home/placidia/.cache/sbt/boot/sbt-launch/1.7.1/sbt-launch-1.7.1.jar","-Dsbt.script=/home/placidia/.local/share/coursier/bin/.sbt.aux","xsbt.boot.Boot","-bsp"]}
